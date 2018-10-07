@@ -10,3 +10,6 @@ GAME RULES:
 - The first player to reach 100 points on GLOBAL score wins the game
 
 ![alt text](preview.png)
+
+### Give it a try @ https://fmontr.github.io/pig-game/
+
